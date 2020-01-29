@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.encryptutils.EncryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-28T19:24:55" hostname="DESKTOP-PQH4IKE" time="0.461">
+  <properties/>
+  <testcase name="testRSA" classname="com.project.encryptutils.EncryptTest" time="0.461"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

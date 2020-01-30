@@ -1,6 +1,5 @@
-package com.project.encryptutils
+package com.project.encryptutils.crypt
 
-import com.project.encryptutils.crypt.CryptoHelper
 import java.nio.charset.Charset
 import java.security.KeyPair
 import java.security.KeyPairGenerator

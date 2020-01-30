@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.encryptutils.HashTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-01-29T16:59:00" hostname="DESKTOP-PQH4IKE" time="0.014">
+  <properties/>
+  <testcase name="testMD2" classname="com.project.encryptutils.HashTest" time="0.007"/>
+  <testcase name="testMD5" classname="com.project.encryptutils.HashTest" time="0.001"/>
+  <testcase name="testSHA" classname="com.project.encryptutils.HashTest" time="0.001"/>
+  <testcase name="testSHA224" classname="com.project.encryptutils.HashTest" time="0.001"/>
+  <testcase name="testSHA256" classname="com.project.encryptutils.HashTest" time="0.001"/>
+  <testcase name="testSHA384" classname="com.project.encryptutils.HashTest" time="0.002"/>
+  <testcase name="testSHA512" classname="com.project.encryptutils.HashTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

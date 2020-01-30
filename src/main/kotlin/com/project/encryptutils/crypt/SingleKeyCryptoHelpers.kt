@@ -1,6 +1,5 @@
 package com.project.encryptutils.crypt
 
-import com.project.encryptutils.generateRandomSecretKey
 import javax.crypto.SecretKey
 
 /**

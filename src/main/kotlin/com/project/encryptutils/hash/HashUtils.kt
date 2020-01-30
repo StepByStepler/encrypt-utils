@@ -1,6 +1,5 @@
-package com.project.encryptutils
+package com.project.encryptutils.hash
 
-import com.project.encryptutils.hash.HashHelper
 import java.nio.charset.Charset
 
 /**
